@@ -38,7 +38,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-![1](/1.png)
+![1.png](https://raw.githubusercontent.com/hyywestwood/Test-of-Zhishui/master/pics/README/1.png)
 
 ### 直接从文件夹使用
 
@@ -54,7 +54,7 @@ python new_UI.py
 
  正确进行配置之后，软件便可正常运行
 
-​	![2](/2.png)
+​	![2.png](https://raw.githubusercontent.com/hyywestwood/Test-of-Zhishui/master/pics/README/2.png)
 
 ```bash
 
