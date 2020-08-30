@@ -1,7 +1,3 @@
----
-typora-root-url: pics\README
----
-
 # Test-of-Zhishui
 ### 文件夹中文件介绍
 
